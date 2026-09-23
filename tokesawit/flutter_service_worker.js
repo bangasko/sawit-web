@@ -5,8 +5,8 @@ const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"manifest.json": "42b76e4907efa6677fe69344aa9098f0",
 "version.json": "3e238221f11cd3a219458b45bc90858f",
-"main.dart.js": "b609b4b7b8ca94955c612c35459b9658",
-"flutter_bootstrap.js": "71ac1d92597729aafa0a917ad3ddbe48",
+"main.dart.js": "9ee3e5e41628130b9216b29c882a40c8",
+"flutter_bootstrap.js": "e7e7c11605f2219f09f4c7a44ed26fba",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -34,7 +34,7 @@ const RESOURCES = {"manifest.json": "42b76e4907efa6677fe69344aa9098f0",
 "assets/assets/icon/logo.png": "1992ca663f84ffaaf3451612ebf198ce",
 "assets/assets/images/logo_tokesawit.png": "6d1d56f6c494498de6b2e4bd15c2754a",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
-"assets/NOTICES": "ccbc6ac4e97f830ba687c7bae29d7b13",
+"assets/NOTICES": "323392cc6ff0cff94d26f8280c510bae",
 "flutter.js": "f31737fb005cd3a3c6bd9355efd33061"};
 // The application shell files that are downloaded before a service worker can
 // start.
