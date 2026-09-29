@@ -96163,7 +96163,7 @@ if(l==null){s=1
 break}s=9
 return A.n(l.gDT(),$async$n7)
 case 9:k=b
-j=k.a.a
+j=k.a.a!=null&&k.a.a.length!==0?k.a.a:k.a.b
 if(j==null||J.bn(j)===0){n.E(new A.aDV(n))
 s=1
 break}f=n.c
